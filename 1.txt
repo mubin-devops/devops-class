@@ -1,3 +1,6 @@
-This is my first file for github.
+This is my first file for for my repository.
 
-testing the deletion
+
+adding more lines 
+deleting few lines
+updating a line
