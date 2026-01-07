@@ -1,7 +1,7 @@
 testing 
 the
 branches
-checking rebase
+checking rebase and testing
 
 rebse and merging
 this is for test
